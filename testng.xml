@@ -2,7 +2,7 @@
 <suite name="Regression TestSuite">
  <test name="Application Test 1">
    <classes>
-     <class name="Automation_tutorial.Test1"></class>
+     <class name="firsttestngpackage.firsttestngfile"></class>
    </classes>   
  </test>
 </suite>
